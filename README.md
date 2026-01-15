@@ -45,27 +45,11 @@ I'm a computer science student passionate about **machine learning systems**, **
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubro18202758&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubro18202758&theme=dark&layout=compact&hide_border=true&langs_count=10)
 
 </div>
 
 ---
 
-## 🎯 Highlights
-
-- **278 contributions** in the last year
-- **Pro GitHub** achievement unlocked 🎖️
-- Active in **hackathons** (Hackxios 2025, multiple coding competitions)
-- Open-source contributions with focus on **ML & Systems**
-- **Competitive programming** at algorithmic level
-
----
 
 ## 🔗 Let's Connect
 
