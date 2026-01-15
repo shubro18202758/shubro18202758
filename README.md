@@ -48,15 +48,11 @@ I'm a computer science student passionate about **machine learning systems**, **
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubro18202758&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-[![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubro18202758&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/shubro18202758)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubro18202758&theme=dark&layout=compact&hide_border=true&langs_count=10)true&count_private=true&include_all_commits=true)](https://github.com/shubro18202758)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubro18202758&theme=dark&layout=compact&hide_border=true&langs_count=10)](https://github.com/shubro18202758)
 
-</div>
-
-</div>
 
 ---
 
